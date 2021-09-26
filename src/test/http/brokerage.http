@@ -1,0 +1,5 @@
+#### Brokerage PURCHASE
+GET {{host}}/api/calc/brokerage?actionType=PURCHASE&price=10000000
+
+#### Brokerage RENT
+GET {{host}}/api/calc/brokerage?actionType=RENT&price=10000000
